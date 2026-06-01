@@ -28,7 +28,7 @@ Students must take 36 UOC of the following courses.
 - [ ] ELEC 4613 (6) Electrical Drive Systems
 - [ ] ELEC 4614 (6) Power Electronics
 - [ ] ELEC 4617 (6) Power System Protection
-- [ ] ELEC4621 (6) Advanced Digital Signal Processing
+- [ ] ELEC 4621 (6) Advanced Digital Signal Processing
 - [ ] ELEC 4622 (6) Multimedia Signal Processing
 - [ ] ELEC 4623 (6) Biomedical Instrumentation, Measurement and Design
 - [ ] ELEC 4631 (6) Continuous - Time Control System Design
