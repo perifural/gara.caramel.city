@@ -1,8 +1,8 @@
 [project]
-site_name = "Caramel Gara"
-site_url = "https://gara.perifural.com"
-site_author = "Caramel Gara"
-copyright = "&copy; 2019-2026 Caramel Gara"
+site_name = "Gara"
+site_url = "https://gara.caramel.city"
+site_author = "Gara"
+copyright = "&copy; 2019-2026 Caramel City"
 extra_css = ["stylesheets/extra.css"]
 
 [project.extra]
