@@ -5,8 +5,8 @@ site_author = "Gara"
 copyright = "&copy; 2019-2026 Caramel City"
 extra_css = ["stylesheets/extra.css"]
 
-[project.extra]
-generator = false
+# [project.extra]
+# generator = false
 
 [project.theme.icon]
 logo = "lucide/paw-print"
