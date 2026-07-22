@@ -3,7 +3,21 @@ icon: lucide/graduation-cap
 title: UBC ELEC
 ---
 
-# UBC BASc ELEC Engineering (2022)
+# UBC BASc ELEC Engineering (2021-2026)
+
+In May 2026, my UBC chapter came to a close.
+
+It was a journey filled with difficult courses, sleepless nights, small victories, and moments when I was not sure I could keep going. Somewhere along the way, those struggles became part of my growth.
+
+I will remember the rain over Vancouver, the quiet walks across campus, and the friends who made the hardest days feel lighter. UBC gave me more than an engineering degree—it gave me courage, memories, and a stronger version of myself.
+
+Now, the road continues south toward UNSW Sydney, where a new city, a new campus, and the [next chapter](../chapter-unsw/) are waiting.
+
+<div style="height: 0.35em;"></div>
+
+<img src="images/chapter-ubc/graduation.jpeg" alt="Graduation" style="zoom: 20%;" />
+
+------
 
 ## Required Courses (114 cr.)
 
@@ -145,20 +159,18 @@ Complete at least 15 credits from this list of courses:
 
 > Complementary studies planning: 
 >
-> https://academicservices.engineering.ubc.ca/course-planning/ 
+> [https://academicservices.engineering.ubc.ca/course-planning/](https://academicservices.engineering.ubc.ca/course-planning/) 
 
 
 ### Free Electives (3 cr.)
 
 - [x] NURS 280 (3) Human Sexual Health
 
-
-
 ------
 
-This list is for reference only. 
+UBC Electrical Engineering second-year entry course list for 2022, for reference only.
 
-https://ubcece.notion.site/BASc-Electrical-Engineering-Checklist-2022-c0a4f8058c6644449cc5859494ffe1f0
+[https://ubcece.notion.site/BASc-Electrical-Engineering-Checklist-2022-c0a4f8058c6644449cc5859494ffe1f0](https://ubcece.notion.site/BASc-Electrical-Engineering-Checklist-2022-c0a4f8058c6644449cc5859494ffe1f0)
 
-https://vancouver.calendar.ubc.ca/course-descriptions/courses-subject
+[https://vancouver.calendar.ubc.ca/course-descriptions/courses-subject](https://vancouver.calendar.ubc.ca/course-descriptions/courses-subject)
 
