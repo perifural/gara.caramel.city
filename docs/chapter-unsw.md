@@ -9,6 +9,8 @@ title: UNSW ELEC
 
 Students must take 12 UOC of the following courses.
 
+*UOC exemption: 12*
+
 - [ ] ELEC 3104 (6) Digital Signal Processing
 - [ ] ELEC 3105 (6) Electrical Energy
 - [ ] ELEC 3115 (6) Electromagnetic Engineering
@@ -17,6 +19,8 @@ Students must take 12 UOC of the following courses.
 ## Disciplinary Knowledge Electives
 
 Students must take 36 UOC of the following courses.
+
+*UOC exemption: 18*
 
 - [ ] ELEC 4601 (6) Digital and Embedded Systems Design
 - [ ] ELEC 4602 (6) Microelectronic Design and Technology
@@ -32,7 +36,7 @@ Students must take 36 UOC of the following courses.
 - [ ] ELEC 4622 (6) Multimedia Signal Processing
 - [ ] ELEC 4623 (6) Biomedical Instrumentation, Measurement and Design
 - [ ] ELEC 4631 (6) Continuous - Time Control System Design
-- [ ] ELEC 4632 (6) Computer Control Systems
+- [ ] <span style="background-color: #D17E48; color: white;">ELEC 4632 (6) Computer Control Systems</span>
 - [ ] ELEC 4633 (6) Real-Time Engineering
 - [ ] PHTN 4661 (6) Optical Circuits and Fibres
 - [ ] TELE 4641 (6) Network Security and Privacy
@@ -61,8 +65,8 @@ Students must take 24 UOC of the following courses.
 - [ ] ELEC 9702 (6) Radio Frequency Integrated Circuit Design
 - [ ] ELEC 9703 (6) Microsystems Design and Technology
 - [ ] ELEC 9704 (6) VLSI Technology
-- [ ] ELEC 9711 (6) Power Electronics for Renewable and Distributed Generation
-- [ ] ELEC 9712 (6) High Voltage Systems
+- [ ] <span style="background-color: #D17E48; color: white;">ELEC 9711 (6) Power Electronics for Renewable and Distributed Generation</span>
+- [ ] <span style="background-color: #D17E48; color: white;">ELEC 9712 (6) High Voltage Systems</span>
 - [ ] ELEC 9713 (6) Industrial and Commercial Power Systems
 - [ ] ELEC 9714 (6) Electricity Industry Planning and Economics
 - [ ] ELEC 9715 (6) Electricity Industry Operation and Control
