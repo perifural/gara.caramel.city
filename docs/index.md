@@ -7,6 +7,8 @@ title: Home
 
 <img class="avatar avatar--soft" src="images/index/avatar.jpg" alt="Caramel Gara">
 
+<div style="height: 0.35em;"></div>
+
 [:fontawesome-brands-qq:&nbsp;&nbsp;QQ](https://qm.qq.com/q/fhDRf3qNBC){ .md-button target="_blank" style="width: 180px; text-align: center;" }
 
 [:fontawesome-brands-x-twitter:&nbsp;&nbsp;Twitter](https://x.com/perifural){ .md-button target="_blank" style="width: 180px; text-align: center;" }
@@ -18,7 +20,6 @@ title: Home
 
 [:fontawesome-brands-linkedin:&nbsp;&nbsp;LinkedIn](https://www.linkedin.com/in/zhe-w/){ .md-button target="_blank" style="width: 180px; text-align: center;" }
 
-&nbsp;
 
 
 <script>
