@@ -20,6 +20,7 @@ title: Home
 
 [:fontawesome-brands-linkedin:&nbsp;&nbsp;LinkedIn](https://www.linkedin.com/in/zhe-w/){ .md-button target="_blank" style="width: 180px; text-align: center;" }
 
+<div style="height: 0.35em;"></div>
 
 
 <script>
