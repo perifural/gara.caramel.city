@@ -5,7 +5,7 @@ title: Home
 
 # Hello, it’s Gara!
 
-<img class="avatar avatar--soft" src="images/index/avatar.jpg" alt="Caramel Gara">
+<img class="avatar avatar--soft" src="images/index/avatar.png" alt="Caramel Gara">
 
 <div style="height: 0.35em;"></div>
 
