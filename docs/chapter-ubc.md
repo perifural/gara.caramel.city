@@ -5,11 +5,19 @@ title: UBC 电子工程
 
 # UBC BASc ELEC Engineering (2021-2026)
 
+**UBC 应用科学学士学位 - 电子工程（2021-2026）**
+
 In May 2026, my UBC chapter came to a close.
 
 It was a journey filled with difficult courses, sleepless nights, small victories, and moments when I was not sure I could keep going. Somewhere along the way, those struggles became part of my growth.
 
 I will remember the rain over Vancouver, the quiet walks across campus, and the friends who made the hardest days feel lighter. UBC gave me more than an engineering degree—it gave me courage, memories, and a stronger version of myself.
+
+2026 年 5 月，我在 UBC 的求学篇章画上了句号。
+
+回首这段旅程，有艰深难懂的课程，有无数挑灯夜读的夜晚，也有点滴收获的喜悦，以及那些曾让我怀疑自己能否继续走下去的时刻。不知不觉间，曾经的艰辛与坎坷，都化作了成长路上不可或缺的一部分。
+
+我会永远记得温哥华的绵绵细雨，记得漫步校园时的宁静，也记得那些让艰难岁月变得温暖而明亮的朋友。UBC 给予我的，远不止一纸工程学位，更有面对未来的勇气、值得珍藏的回忆，以及一个更加坚韧的自己。
 
 <div style="height: 0.35em;"></div>
 
