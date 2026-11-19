@@ -1,9 +1,9 @@
 ---
 icon: lucide/bone
-title: Home
+title: 扩列愉快
 ---
 
-# Hello, it’s Gara!
+# 泥嚎，我是加拉！
 
 <img class="avatar avatar--soft" src="images/index/avatar.png" alt="Caramel Gara">
 
