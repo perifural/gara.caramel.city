@@ -1,6 +1,6 @@
 ---
 icon: lucide/graduation-cap
-title: UBC ELEC
+title: UBC 电子工程
 ---
 
 # UBC BASc ELEC Engineering (2021-2026)
@@ -10,8 +10,6 @@ In May 2026, my UBC chapter came to a close.
 It was a journey filled with difficult courses, sleepless nights, small victories, and moments when I was not sure I could keep going. Somewhere along the way, those struggles became part of my growth.
 
 I will remember the rain over Vancouver, the quiet walks across campus, and the friends who made the hardest days feel lighter. UBC gave me more than an engineering degree—it gave me courage, memories, and a stronger version of myself.
-
-Now, the road continues south toward UNSW Sydney, where a new city, a new campus, and the [next chapter](../chapter-unsw/) are waiting.
 
 <div style="height: 0.35em;"></div>
 
